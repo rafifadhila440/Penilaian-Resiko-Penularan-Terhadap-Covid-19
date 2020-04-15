@@ -1,0 +1,12 @@
+D:\TUGAS\TUGAS HARI LIBUR\Resiko Tertular Covid-19\Resiko Tertular Covid-19\bin\Debug\Resiko Tertular Covid-19.exe.config
+D:\TUGAS\TUGAS HARI LIBUR\Resiko Tertular Covid-19\Resiko Tertular Covid-19\bin\Debug\Resiko Tertular Covid-19.exe
+D:\TUGAS\TUGAS HARI LIBUR\Resiko Tertular Covid-19\Resiko Tertular Covid-19\bin\Debug\Resiko Tertular Covid-19.pdb
+D:\TUGAS\TUGAS HARI LIBUR\Resiko Tertular Covid-19\Resiko Tertular Covid-19\bin\Debug\Resiko Tertular Covid-19.xml
+D:\TUGAS\TUGAS HARI LIBUR\Resiko Tertular Covid-19\Resiko Tertular Covid-19\obj\Debug\Resiko Tertular Covid-19.vbprojAssemblyReference.cache
+D:\TUGAS\TUGAS HARI LIBUR\Resiko Tertular Covid-19\Resiko Tertular Covid-19\obj\Debug\Resiko_Tertular_Covid_19.Form1.resources
+D:\TUGAS\TUGAS HARI LIBUR\Resiko Tertular Covid-19\Resiko Tertular Covid-19\obj\Debug\Resiko_Tertular_Covid_19.Form2.resources
+D:\TUGAS\TUGAS HARI LIBUR\Resiko Tertular Covid-19\Resiko Tertular Covid-19\obj\Debug\Resiko_Tertular_Covid_19.Resources.resources
+D:\TUGAS\TUGAS HARI LIBUR\Resiko Tertular Covid-19\Resiko Tertular Covid-19\obj\Debug\Resiko Tertular Covid-19.vbproj.GenerateResource.cache
+D:\TUGAS\TUGAS HARI LIBUR\Resiko Tertular Covid-19\Resiko Tertular Covid-19\obj\Debug\Resiko Tertular Covid-19.exe
+D:\TUGAS\TUGAS HARI LIBUR\Resiko Tertular Covid-19\Resiko Tertular Covid-19\obj\Debug\Resiko Tertular Covid-19.xml
+D:\TUGAS\TUGAS HARI LIBUR\Resiko Tertular Covid-19\Resiko Tertular Covid-19\obj\Debug\Resiko Tertular Covid-19.pdb
